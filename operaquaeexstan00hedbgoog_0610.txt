@@ -1,0 +1,37 @@
+mol-:x SIGLoRcu
+
+8=Sangermanensis Petropolitanas olim 207, nunc cl. L. F. v. N. 1.
+AzAmbrosianas L 85 sup.
+B=codices recentiores uel omnes meliores uel omnes praeter eos, qui
+separatim laudantur.
+2=Laurentianus plut. 53, 32.
+b=Bibl. Brer. mediol. A. D. xv, 4.
+e = caesenas malatestianus plut. 24, 2.
+d=Laur. Conu. Suppr. 285.
+g=Vallicellianus E 39.
+k=Laurentianus plut. 53, 24.
+1=Lipsiensis Bibl. Cotum. rep. 1. f. 13.
+n=Venetus Marcianus 462.
+p=Laurentianus plut. 53, 27.
+q z Laurentianus plut. 91, 6 ini.
+r=Vaticanus lat. ¹525·
+a: Laur.·Strozzianus 69.
+1=Urbino-Vaticanus 260.
+v=Vaticanus lat. 1526.
+w=Vaticanus lat. 1524.
+y=Vaticanus lat. 1527.
+12=Hosquensis Demidovianus nunc deperditus. Lectiones reddidi e
+collatione C. fr. Matthaei (Lect. Mosq. vol. 1, Lips. 1779).
+V=codicis ueteris fragmentum, cuius exempla in A fol. 206v-207' et
+eodem textus loco in codd. R haud paucis (αἰ-ηαυπτ Ouob. 1700)
+seruantur.
+a=V in cod. A.
+p=V in codd. Β supra nominatis.
+uett. edd. :editiones duae uetustissimae.
+ed. pr. Ξ editio princeps (¹'lensoniana‘ Venetiis 1472).
+ed. Brusclr. :editio secunda (¹'B1-usehiana‘ Regii 1482).
+Discrepantiae scripturarum ae, ω, e, ς, oe utpote in codicibus con-
+fusae rationem non habui.
+
+ 
+
